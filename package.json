@@ -1,0 +1,30 @@
+{
+  "name": "hotelbookapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js",
+
+    "test": "mocha ./src/test/LoadData.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aachalmakode/HotelManagementApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aachalmakode/HotelManagementApp/issues"
+  },
+  "homepage": "https://github.com/aachalmakode/HotelManagementApp#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "xlsx": "^0.17.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}

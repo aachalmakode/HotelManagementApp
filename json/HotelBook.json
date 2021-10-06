@@ -1,0 +1,34 @@
+[
+  {
+    "Name Of Customer": "Aachal Makode",
+    "CheckIn Date": "10/05/2021",
+    "CheckIn Time": "18 : 41",
+    "CheckOut Date": "10/05/2021",
+    "CheckOut Time": "18 : 41"
+  },
+  {
+    "Name Of Customer": "Tanvi",
+    "UserID": "Tanv9067",
+    "CheckIn Date": "10/05/2021",
+    "CheckIn Time": "19 : 30",
+    "CheckOut Date": "10/05/2021",
+    "CheckOut Time": "19 : 03"
+  },
+  {
+    "Name Of Customer": "Teju Rathod",
+    "CheckIn Date": "10/05/2021",
+    "CheckIn Time": "20 : 11",
+    "CheckOut Date": "10/05/2021",
+    "CheckOut Time": "20 : 11"
+  },
+  {
+    "Name Of Customer": "Ayur Ninawe",
+    "Gender": "Male",
+    "UserID": "Ayur8777",
+    "Mobile No": "8777894545",
+    "CheckIn Date": "10/06/2021",
+    "CheckIn Time": "10 : 9",
+    "CheckOut Date": "10/06/2021",
+    "CheckOut Time": "10 : 9"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Aachal",
+    "lastName": "Makode",
+    "gender": "Female",
+    "mobNo": "7020565278",
+    "userID": "Aach7020"
+  },
+  {
+    "firstName": "Tanvi",
+    "lastName": "Raoj",
+    "gender": "Female",
+    "mobNo": "7066565555",
+    "userID": "7066"
+  },
+  {
+    "firstName": "Teju",
+    "lastName": "Rathod",
+    "gender": "Female",
+    "mobNo": "56478952333",
+    "userID": "Teju5647"
+  },
+  {
+    "firstName": "Ayur",
+    "lastName": "Ninawe",
+    "gender": "Male",
+    "mobNo": "8777894545",
+    "userID": "Ayur8777"
+  }
+]

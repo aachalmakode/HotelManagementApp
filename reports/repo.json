@@ -1,0 +1,40 @@
+[
+  {
+    "NameOfUser": "Aachlal Makode",
+    "UserID": "Aach9876",
+    "CheckInDate": "10/05/2021",
+    "CheckOutDate": "10/05/2021",
+    "StayDuration": "0 Day 0 Hours",
+    "ChargesOfStay": 590,
+    "OrdersOfUser": "1. Name Of Item : Lunch, Quantity : 4, Price : 250, TotalAmount : 849.6 | ",
+    "TotalBill": 1439.6
+  },
+  {
+    "NameOfUser": "Tanvi Raoj",
+    "CheckInDate": "10/05/2021",
+    "CheckOutDate": "10/05/2021",
+    "StayDuration": "0 Day 0 Hours",
+    "ChargesOfStay": 590,
+    "OrdersOfUser": "1. Name Of Item : Cold Coffee, Quantity : 4, Price : 50, TotalAmount : 708 | ",
+    "TotalBill": 1298
+  },
+  {
+    "NameOfUser": "Teju Rathod",
+    "CheckInDate": "10/05/2021",
+    "CheckOutDate": "10/05/2021",
+    "StayDuration": "0 Day 0 Hours",
+    "ChargesOfStay": 590,
+    "OrdersOfUser": "1. Name Of Item :  Hot Coffee, Quantity : 2, Price : 40, TotalAmount : 94.4 | 2. Name Of Item :  Hot Coffee, Quantity : 2, Price : 40, TotalAmount : 94.4 | ",
+    "TotalBill": 778.8
+  },
+  {
+    "NameOfUser": "Ayur Ninawe",
+    "UserID": "Ayur8777",
+    "CheckInDate": "10/06/2021",
+    "CheckOutDate": "10/06/2021",
+    "StayDuration": "0 Day 0 Hours",
+    "ChargesOfStay": 590,
+    "OrdersOfUser": "1. Name Of Item :  Hot Coffee, Quantity : 3, Price : 40, TotalAmount : 141.6 | ",
+    "TotalBill": 731.6
+  }
+]
